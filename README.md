@@ -1,4 +1,8 @@
 # gitter-geeks
 Hello, This is Computer Org&Programming Project A1
 
-lets write this down
+Coordinator - Zoe A kosmicki
+vedansi
+Michael Knight
+Tek Sarma
+Hyoungjun Lee
