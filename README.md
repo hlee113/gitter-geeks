@@ -7,6 +7,6 @@ vedansi
 
 Michael Knight
 
-Tek Sarma
+Tek Acharya
 
 Hyoungjun Lee
