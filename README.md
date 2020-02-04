@@ -3,7 +3,7 @@ Hello, This is Computer Org&Programming Project A1
 
 Coordinator - Zoe A kosmicki
 
-vedansi
+Vedansi Parsana
 
 Michael Knight
 
